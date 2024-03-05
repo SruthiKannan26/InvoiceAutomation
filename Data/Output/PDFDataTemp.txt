@@ -1,0 +1,26 @@
+Astra Pvt Ltd INVOICE
+1 Main Road
+Johannesburg
+South Africa # 2107
+leon@robopro.co
+
+Date: Apr 1, 2023
+Bill To: Payment Terms: Net 90 Days
+Mellicent Ivoshin
+Dynazzy Due Date: Jun 30, 2023
+37 Carpenter Court
+Sinilian First Balance Due: ₹68,850.00
+560-390-2703
+mivoshincp@gravatar.com
+
+Item Quantity Rate Amount
+
+Service Fee 6 ₹2,500.00 ₹15,000.00
+Additional Services 7 ₹7,500.00 ₹52,500.00
+
+Subtotal:
+Tax (2%):
+Total:
+₹67,500.00
+₹1,350.00
+₹68,850.00
